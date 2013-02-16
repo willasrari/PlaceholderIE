@@ -1,0 +1,1 @@
+﻿This project is a simple way to display an alternate placeholder experience for both desktop and mobile users.
